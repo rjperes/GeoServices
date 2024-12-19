@@ -1,2 +1,2 @@
-# EFSoftDeletes
-A collection of APIs for easing soft-deletes with EF Core.
+# GeoServices
+A collection of APIs retrieving geo and weather information from an IP.
